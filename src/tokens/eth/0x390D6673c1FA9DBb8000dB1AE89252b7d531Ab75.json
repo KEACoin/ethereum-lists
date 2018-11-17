@@ -1,0 +1,31 @@
+{
+  "symbol": "KEA",
+  "name": "KEA Coin",
+  "type": "ERC20",
+  "address": "0x390D6673c1FA9DBb8000dB1AE89252b7d531Ab75",
+  "ens_address": "",
+  "decimals": 8,
+  "website": "https://www.keacoin.org",
+  "logo": {
+    "src": "https://www.keacoin.org/KEA-Logo-28x28.png",
+    "width": "28",
+    "height": "28",
+    "ipfs_hash": ""
+  },
+  "support": { "email": "info@keacoin.org", "url": "" },
+  "social": {
+    "blog": "http://keacoin.wordpress.com",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "https://github.com/KEACoin/keacoin",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "https://t.me/KEACoin",
+    "twitter": "https://twitter.com/keacoin",
+    "youtube": ""
+  }
+}
